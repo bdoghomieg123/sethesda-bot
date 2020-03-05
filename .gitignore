@@ -1,3 +1,4 @@
 .ini
 posts_replied_to.txt
 *.ini
+*.pyc
