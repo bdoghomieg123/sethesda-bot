@@ -5,10 +5,10 @@ import time
 import os.path
 from common import clear
 
-
 reddit=praw.Reddit('bot1')
 
 subreddit = reddit.subreddit("sethesda_submissions")
+
 
 lines = open('replies.txt').read().splitlines()
 
